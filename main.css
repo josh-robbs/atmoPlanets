@@ -1,18 +1,23 @@
-body {
+body    {
     background:url(./space-background.jpg) no-repeat !important;
-    padding-top:100px;
+    padding-top:0px;
     background-size:cover;
-  }
-
-.col-1 {
-position: relative;
-height: 14rem;
-margin: 10px;
 }
-
-  
-  
-img {
-border-radius: 100%;
-/* width: 80px; */
+.col-1  {
+    position: relative;
+    height: 14rem;
+    margin: 10px;
+} 
+img     {
+    border-radius: 100%;
+}
+.navbar-dark   {
+    background-color:black;
+}
+.navbar-brand   {
+    color: grey;
+}
+.mainTitle  {
+    color:white;
+    align-self: center;
 }
