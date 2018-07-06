@@ -21,3 +21,15 @@ img     {
     color:white;
     align-self: center;
 }
+
+.ourPhotos{
+    
+   align-content: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.about{
+    
+    align-content: mx-auto;
+    color: white;
+}
