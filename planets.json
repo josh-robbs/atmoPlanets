@@ -1,1 +1,56 @@
-////this is where planey data will gos
+[
+    {
+        "name": "Mercury",
+        "gasA": "Oxygen",
+        "gasB": "Sodium",
+        "gasC": "Hydrogen"
+    },
+    {
+        "name": "Venus",
+        "gasA": "Carbon Dioxide",
+        "gasB": "Nitrogen",
+        "gasC": "Sulfur Dioxide"
+    },
+    {
+        "name": "Earth",
+        "gasA": "Nitrogen",
+        "gasB": "Carbon Dioxide",
+        "gasC": "Argon"
+    },
+    {
+        "name": "Mars",
+        "gasA": "Carbon Dioxide",
+        "gasB": "Nitrogen",
+        "gasC": "Other Gases"
+    },
+    {
+        "name": "Jupiter",
+        "gasA": "Hydrogen",
+        "gasB": "Helium",
+        "gasC": "Ammonia"
+    },
+    {
+        "name": "Saturn",
+        "gasA": "Hydrogen",
+        "gasB": "Methane",
+        "gasC": "Ammonia"
+    },
+    {
+        "name": "Uranus",
+        "gasA": "Hydrogen",
+        "gasB": "Helium",
+        "gasC": "Other Gases"
+    },
+    {
+        "name": "Neptune",
+        "gasA": "Hydrogen",
+        "gasB": "Helium",
+        "gasC": "Methane"
+    },
+    {
+        "name": "Pluto",
+        "gasA": "Nitrgoen",
+        "gasB": "Methane",
+        "gasC": "Other Gases""
+    }
+]
