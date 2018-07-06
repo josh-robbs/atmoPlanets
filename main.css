@@ -1,4 +1,5 @@
-p {
-    font-family: cursive;
-    /* Change by Joey */
-}
+body {
+    background:url(./space-background.jpg) no-repeat !important;
+    padding-top:100px;
+    background-size:cover;
+  }
